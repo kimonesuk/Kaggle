@@ -1,6 +1,5 @@
 # Kaggle
 
----
 
 - Binary classification - Tabular data
     - Titanic Competition
